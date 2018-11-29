@@ -5,4 +5,6 @@ title:  "Vad tycker du om SSG?"
 date:   2018-11-16 07:02:49 -0600
 categories: jekyll update
 ---
+Jag tycker att SSG är en smidig lösning och den största fördelen är att man slipper att upprepa kod i onödan och när jag skriver dessa blogginläggen så använder jag mig utav "markdown" vilket även det var en mycket smidig funktion.
 
+SSG är väldigt bra om man ska skapa tillexempel en dokumentationssida, digital bok eller som vi gör i detta fallet, en hemsida med en blogg.

@@ -5,3 +5,4 @@ title:  "Vad är humans.txt?"
 date:   2018-11-26 07:02:49 -0600
 categories: jekyll update
 ---
+humans.txt är till för att man ska kunna veta vem/vilka som ligger bakom hemsidan. Man kan även skriva in kontaktuppgifter, vilket jag har gjort i form av min twitter. Jag har även skrivit in vart jag befinner mig och vilka standader och program som jag har använt mig av.

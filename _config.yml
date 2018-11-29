@@ -18,7 +18,7 @@ email: hk222rc@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
   Det här är min grymma webbplats som presenterar examination 1
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://h4mp3e.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: h4mp3e
 github_username:  h4mp3e
 

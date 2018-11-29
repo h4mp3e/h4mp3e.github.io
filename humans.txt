@@ -1,0 +1,17 @@
+                           
+/* TEAM */
+                       
+Your title: Hampus Karlsson
+                            
+Twitter: h4mp3e.
+                            
+Location: Kalmar, Sweden. 
+
+/* SITE */
+                           
+Last update: 2018/11/29
+
+                            
+Standards: HTML5
+                            
+Software: Visual Studio Code
