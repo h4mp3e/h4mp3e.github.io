@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: Om mig
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Jag heter Hampus och jag är 23 år gammal. <br>
+Jag kommer från en stad som heter Nybro och ligger 3 mil ifrån Kalmar, men jag har bott här i Kalmar i 3 år.  <br>
+Jag tycker väldigt mycket om att resa och var i sydostasien i 2 månader i vintras. Filippinerna var mitt favoritland. <br>
+Några av mina intressen:`Träning, köra båt, fiska, åka wakeboard, spela datorspel, umgås med vänner

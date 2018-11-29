@@ -1,1 +1,4 @@
-random
+User-agent: *
+Disallow: /
+Allow: .css
+Allow: .js

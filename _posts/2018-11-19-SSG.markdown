@@ -1,0 +1,8 @@
+---
+layout: post
+comments: true
+title:  "Vad tycker du om SSG?"
+date:   2018-11-16 07:02:49 -0600
+categories: jekyll update
+---
+
